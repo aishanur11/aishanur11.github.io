@@ -50,7 +50,7 @@ A full-stack **student engagement tracking system** inspired by real needs at FI
   - Deployed a real web app using a GCP VM, managing firewall rules and environment setup
   - Practiced connecting frontend forms to backend routes and SQL queries in a clean, testable way
 
-👉 _GitHub link coming soon_
+👉 _GitHub link : https://github.com/aishanur11/tickettrack_database
 
 ---
 
@@ -68,7 +68,7 @@ A CRUD-focused web app that manages **event ticket buyers**, built as a foundati
   - Learned how to keep frontend and backend in sync through clean API design
   - Practiced handling data in multiple storage systems (SQL and NoSQL)
 
-👉 _GitHub link coming soon_
+👉 _GitHub link : https://github.com/aishanur11/assign3-client-server-crud
 
 ---
 
