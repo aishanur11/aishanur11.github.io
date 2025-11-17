@@ -161,7 +161,7 @@ _Associate in Computer Science_
 
 You can view or download my resume here:
 
-- **[Download my resume (PDF)](./Aishanur.pdf)**
+- **[Download my resume (PDF)](./resume.pdf)**
 
 
 ---
