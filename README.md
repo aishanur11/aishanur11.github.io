@@ -5,7 +5,7 @@ Building data-driven applications and tools that turn messy data into clear, act
 
 ---
 
-## Home / Introduction
+## Introduction
 
 Hi, I'm **Aisha Nur**, a Computer Science student at the University of Washington with a **Minor in Data Analytics** and a **Data Science Certificate in progress (expected 2026)**.  
 
