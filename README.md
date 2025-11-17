@@ -171,6 +171,6 @@ You can view or download my resume here:
 
 - **Email:** [aishanur1445@gmail.com](mailto:aishanur1445@gmail.com)  
 - **LinkedIn:** [My linkedin](https://www.linkedin.com/in/aisha-nur)  
-- **GitHub:** [My github](https://github.com/aishanur11/aishanur11.github.io)
+- **GitHub:** [My github](https://github.com/aishanur11)
 
 Feel free to reach out about internships, collaborations, or projects!
