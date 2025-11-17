@@ -171,7 +171,7 @@ _(Place your `resume.pdf` file in the root of this repository so this link works
 ## 📫 Contact
 
 - **Email:** [aishanur1445@gmail.com](mailto:aishanur1445@gmail.com)  
-- **LinkedIn:** (add your full LinkedIn URL here)  
+- **LinkedIn:** (https://www.linkedin.com/in/aisha-nur)  
 - **GitHub:** (https://github.com/aishanur11/aishanur11.github.io)
 
 Feel free to reach out about internships, collaborations, or projects!
