@@ -163,7 +163,7 @@ You can view or download my resume here:
 
 [![Resume Preview](./resume-preview.png)](./resume.pdf)
 
-- **[Download my resume (PDF)](./resume.pdf)**
+- **[Download my resume](./resume.pdf)**
 
 
 ---
