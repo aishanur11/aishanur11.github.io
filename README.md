@@ -1,13 +1,12 @@
 # Welcome to My Portfolio
 
-# Aisha Nur
 
 **Computer Science + Data Analytics Student**  
 Building data-driven applications and tools that turn messy data into clear, actionable insights.
 
 ---
 
-## 👋 Home / Introduction
+## Home / Introduction
 
 Hi, I'm **Aisha Nur**, a Computer Science student at the University of Washington with a **Minor in Data Analytics** and a **Data Science Certificate in progress (expected 2026)**.  
 
@@ -17,7 +16,7 @@ I enjoy building full-stack applications, designing databases, and using data to
 
 ---
 
-## 🧑🏽‍💻 About Me
+## About Me
 
 I started my journey in computer science at **Highline College**, where I earned my **Associate in Computer Science (GPA 3.8)**. I then transferred to the **University of Washington** to pursue my **Bachelor’s in Computer Science** with a **Minor in Data Analytics (current GPA 3.9)**.
 
@@ -33,7 +32,7 @@ In the long term, I’m aiming for roles in **data analytics, data science, or d
 
 ---
 
-## 💻 Projects (Work in Progress)
+## Projects (In Progress)
 
 ### 1. Student Engagement Database System (TicketTrack)
 
@@ -50,7 +49,8 @@ A full-stack **student engagement tracking system** inspired by real needs at FI
   - Deployed a real web app using a GCP VM, managing firewall rules and environment setup
   - Practiced connecting frontend forms to backend routes and SQL queries in a clean, testable way
 
-👉 _GitHub link : https://github.com/aishanur11/tickettrack_database
+ GitHub link : [GitHub Repository](https://github.com/aishanur11/tickettrack_database)
+
 
 ---
 
@@ -68,7 +68,7 @@ A CRUD-focused web app that manages **event ticket buyers**, built as a foundati
   - Learned how to keep frontend and backend in sync through clean API design
   - Practiced handling data in multiple storage systems (SQL and NoSQL)
 
-👉 _GitHub link : https://github.com/aishanur11/assign3-client-server-crud
+👉 _GitHub link : [Github Repository](https://github.com/aishanur11/assign3-client-server-crude)
 
 ---
 
@@ -89,7 +89,6 @@ A desktop game that combines **Java, databases, and design patterns**. Players n
 
 👉 _GitHub link coming soon_
 
-> _Note: This Projects section is a WIP and will be updated each quarter with new work._
 
 ---
 
@@ -164,14 +163,13 @@ You can view or download my resume here:
 
 - **[Download my resume (PDF)](./Aishanur.pdf)**
 
-_(Place your `resume.pdf` file in the root of this repository so this link works.)_
 
 ---
 
 ## 📫 Contact
 
 - **Email:** [aishanur1445@gmail.com](mailto:aishanur1445@gmail.com)  
-- **LinkedIn:** (https://www.linkedin.com/in/aisha-nur)  
-- **GitHub:** (https://github.com/aishanur11/aishanur11.github.io)
+- **LinkedIn:** [My linkedin](https://www.linkedin.com/in/aisha-nur)  
+- **GitHub:** [My github](https://github.com/aishanur11/aishanur11.github.io)
 
 Feel free to reach out about internships, collaborations, or projects!
