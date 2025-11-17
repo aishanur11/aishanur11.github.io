@@ -1,5 +1,5 @@
 # Welcome to My Portfolio
-
+theme: jekyll-theme-minimal
 
 **Computer Science + Data Analytics Student**  
 Building data-driven applications and tools that turn messy data into clear, actionable insights.
