@@ -68,7 +68,7 @@ A CRUD-focused web app that manages **event ticket buyers**, built as a foundati
   - Learned how to keep frontend and backend in sync through clean API design
   - Practiced handling data in multiple storage systems (SQL and NoSQL)
 
-👉 _GitHub link : [Github Repository](https://github.com/aishanur11/assign3-client-server-crude)
+ _GitHub link : [Github Repository](https://github.com/aishanur11/assign3-client-server-crude)
 
 ---
 
@@ -87,12 +87,12 @@ A desktop game that combines **Java, databases, and design patterns**. Players n
   - Used **design patterns** (Factory, Memento) to keep the code modular and maintainable
   - Worked in an Agile-style team with iterative sprints and version control
 
-👉 _GitHub link coming soon_
+ _GitHub link coming soon_
 
 
 ---
 
-## 🛠 Skills
+##  Skills
 
 ### Programming & Web Development
 - **Languages:** Java, Python, JavaScript, HTML, CSS
@@ -115,7 +115,7 @@ A desktop game that combines **Java, databases, and design patterns**. Players n
 
 ---
 
-## 💼 Experience
+##  Experience
 
 ### Database Assistant – FIUTS (Foundation for International Understanding Through Students)  
 _Seattle, WA • Aug 2024 – Present_
@@ -145,7 +145,7 @@ _University of Washington_
 
 ---
 
-## 🎓 Education
+## Education
 
 **University of Washington**  
 _Bachelor’s in Computer Science – Minor in Data Analytics_  
@@ -157,7 +157,7 @@ _Associate in Computer Science_
 
 ---
 
-## 📄 Resume
+##  Resume
 
 You can view or download my resume here:
 
@@ -166,7 +166,7 @@ You can view or download my resume here:
 
 ---
 
-## 📫 Contact
+##  Contact
 
 - **Email:** [aishanur1445@gmail.com](mailto:aishanur1445@gmail.com)  
 - **LinkedIn:** [My linkedin](https://www.linkedin.com/in/aisha-nur)  
