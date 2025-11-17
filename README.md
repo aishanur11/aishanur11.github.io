@@ -67,7 +67,7 @@ A CRUD-focused web app that manages **event ticket buyers**, built as a foundati
   - Learned how to keep frontend and backend in sync through clean API design
   - Practiced handling data in multiple storage systems (SQL and NoSQL)
 
- _GitHub link : [Github Repository](https://github.com/aishanur11/assign3-client-server-crude)
+ _GitHub link : [Github Repository](https://github.com/aishanur11/assign3-client-server-crud)
 
 ---
 
