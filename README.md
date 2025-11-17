@@ -12,7 +12,6 @@ Hi, I'm **Aisha Nur**, a Computer Science student at the University of Washingto
 
 I enjoy building full-stack applications, designing databases, and using data to answer real-world questions. Recently, I’ve been working with **SQL, Python, Node.js, Tableau, and Salesforce** to support student engagement and program decisions.
 
-> **Tagline:** _“I build practical, data-informed solutions that help people make better decisions.”_
 
 ---
 
